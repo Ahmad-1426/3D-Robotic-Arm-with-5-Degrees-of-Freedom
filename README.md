@@ -1,7 +1,7 @@
 # 3D-Robotic-Arm-with-5-Degrees-of-Freedom
 
 
-![Robotic Arm Design](./ropot%20arm%201.png)
+
 
 ## Overview
 This project is a 3D model of a robotic arm created using **Tinkercad**. The arm features four degrees of freedom and is designed to demonstrate the basic motion capabilities of an industrial robotic arm.
@@ -24,7 +24,7 @@ This project is a 3D model of a robotic arm created using **Tinkercad**. The arm
 - Simulation and control using Arduino or similar microcontrollers
 
 ## Screenshot
-The image above shows the current version of the robotic arm as modeled in Tinkercad.
+.
 
 ## Author
 - **Name:** Ahmad qutub 
